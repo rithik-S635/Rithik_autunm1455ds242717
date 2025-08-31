@@ -1,2 +1,2 @@
 Rithik.pptx
-rithik.html
+rithik.ht
